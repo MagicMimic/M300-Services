@@ -24,6 +24,12 @@ Systemsicherheit war mir bereits vor dem Modul bekannt, da die Systemsicherheit 
 ## Lernschritte
 Ich konnte in diesem Modul das erste Mal Mark Down, Vagrant und Git Bash richtig kennenlernen. Ich dokumentiere in meiner Firma mit Trac, weshalb ich Mark Down ziemlich schnell verstand. Ich mochte Vagrant sehr, weshalb ich keine Proleme hat einbisschen mehr Zeit zu investieren und ich somit ziemlich schnell damit klar kam. Bei GIt BAsh lernte ich die Basic Befehle.
 
+## Vagrant Befehle 
+| Vagrant Befehle    | was es macht |
+| -------------------|-------------:|
+| git up | startet die Vagrant Datei |
+| git reload | startet alle Vagrant VMs neu |
+| git destroy -f | zerstört alle Vagrant Vms |
 ## Umgebung
 ### Testfälle
 | Was getestet wurde | Soll | Ist |
