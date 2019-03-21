@@ -13,7 +13,7 @@ Ich habe schon in einige Modulen Virtualisierungen erstellt. In der Firma verwen
 Ich kannte Vagrant vor diesem Projekt noch gar nicht. Ich wusste aber, dass es möglich ist Virtualisiserungen automatisch zu erstellen. Es hat mich seh gefreut, dass ich nun endlich dieses Tool anschauen konnte, dass mit ermöglicht Virtualisiserungen automatishc zu erstellen.
 
 ### Versionsverwaltung/Git
-ICh kannte Git vo ersten Lehrlabor, habe es aber seit dem nie wieder verwendet.
+Ich kannte Git vo ersten Lehrlabor, habe es aber seit dem nie wieder verwendet.
 
 ### Mark Down
 Ich kannte Mark Down noch gar nicht, kannte aber die Endung .md.
