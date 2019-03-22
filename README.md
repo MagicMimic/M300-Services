@@ -30,7 +30,9 @@ Ich konnte in diesem Modul das erste Mal Mark Down, Vagrant und Git Bash richtig
 | git up | startet die Vagrant Datei |
 | git reload | startet alle Vagrant VMs neu |
 | git destroy -f | zerstört alle Vagrant Vms |
+
 ## Umgebung
+
 ### Testfälle
 | Was getestet wurde | Soll | Ist |
 | -------------------|:----:|:----|
@@ -49,3 +51,6 @@ Zudem habe ich einen Reverse Proxy installiert mit dem Befehl "sudo apt-get inst
 
 ### Ports
 Ich habe anschiessend die Ports 22 und 3306 geöfnet. DIes machte ich mit den Befehle "sudo ufw allow from 192.168.0.100 to any port 22" und sudo ufw allow from 192.168.55.101 to any port 3306
+
+## Reflexion
+Ich hatte bei diesem Projekt viel Spasss, da ich sehr viel über Vagrant und Git Bash lernen konnte. Am Anfang kannte ich Vagrant noch gar nicht. Bei Git Bash lernte ich die Basics kennen und bei Vagrant weiss ich nun wie ma neine Vm mit einpaar Services aufsetzt.
