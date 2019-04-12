@@ -1,3 +1,4 @@
+# Das Docker-compose File sagt Docker, wie es Wordpress und MariaDB starten muss.
 wordpress:
     image: wordpress
     links:
